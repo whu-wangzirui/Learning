@@ -1,7 +1,7 @@
 #include "head.h"
 
 
-
+//a function
 double Avarnge_angle_v(double sqrt_A)
 {
     double n0=0;
